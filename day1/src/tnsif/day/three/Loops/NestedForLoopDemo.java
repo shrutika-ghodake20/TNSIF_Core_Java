@@ -14,7 +14,7 @@ public class NestedForLoopDemo {
 		{
 			for(int j=1; j<=10; j++); //inner loop
 			{
-				System.out.println(i + "*"+ j+ "="+ i*j);
+				System.out.println(i + "*" + j+ "="+ i * j);
 				
 			}
 			System.out.println();
